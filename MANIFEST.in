@@ -1,0 +1,3 @@
+graft pyrkle/templates
+graft pyrkle/static
+include pyrkle/schema
